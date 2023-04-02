@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T11:42:10.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="CGShtHyfIhrw6qx0NGvV" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-02T11:44:18.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.62" etag="SBhWx9jJ49VLR0FPQNTx" version="21.1.2" type="github">
   <diagram name="第 1 页" id="LdlHcSOaFKWmaWyha5KA">
     <mxGraphModel dx="2963" dy="1651" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4472,6 +4472,16 @@
         <UserObject label="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr; font-size: 20px;&quot;&gt;Weight updating perceptron-like network&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/p&gt;&lt;/div&gt;" tags="Background" id="DLcAsVFQb0NsvhRY1NOZ-792">
           <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=81;fillColor=#f2f2f2;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#000000;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;rotation=0;fontSize=20;" vertex="1" parent="1">
             <mxGeometry x="405" y="1417" width="845.66" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px; color: rgb(0, 0, 0); direction: ltr; letter-spacing: 0px; line-height: 120%; opacity: 1;&quot;&gt;Details&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" tags="Background" id="DLcAsVFQb0NsvhRY1NOZ-793">
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=352;fillColor=none;gradientColor=none;shape=stencil(nZBLDoAgDAVP0z3SIyjeg0SURgWD+Lu9EGL8xBW7N828Ji1gOWs5KeBs9s72aqPGa8AKOCejlSMfEqAALFvrVOfsYprEk4xmTKNd44Y99VhscHY8qU7iQOYhFixbvfhXzlZfYgj3hQG+54dReh2KEw==);strokeColor=none;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=20;rotation=-45;" vertex="1" parent="1">
+            <mxGeometry x="1075.4246496847163" y="651.0020689655172" width="162.38097988189372" height="31.36" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px; text-indent: 0px; vertical-align: middle; direction: ltr; font-size: 20px;&quot;&gt;Perceptron Regroup&lt;br&gt;&lt;/p&gt;&lt;/div&gt;" tags="Background" id="DLcAsVFQb0NsvhRY1NOZ-794">
+          <mxCell style="verticalAlign=middle;align=center;overflow=width;vsdxID=534;fillColor=none;gradientColor=none;shape=stencil(nZBLDoAgDAVP0z3SIyjeg0SURgWD+Lu9EGL8xBW7N828Ji1gOWs5KeBs9s72aqPGa8AKOCejlSMfEqAALFvrVOfsYprEk4xmTKNd44Y99VhscHY8qU7iQOYhFixbvfhXzlZfYgj3hQG+54dReh2KEw==);strokeColor=none;strokeWidth=0;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;fontSize=20;" vertex="1" parent="1">
+            <mxGeometry x="363" y="1152.56" width="100" height="53.42" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
